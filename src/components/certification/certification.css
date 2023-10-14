@@ -1,0 +1,19 @@
+#Certification {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/1002/672/desktop-wallpaper-watercolour-backgrounds-professional-portfolio-watercolor-background.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#imgace:hover {
+    transform: scale(1.4);
+    box-shadow: 10px 10px 10px #026f79;
+}
+#imgace{
+    width: 60%;
+    height: 70%;
+}
+#certifi{
+    color: #026f79;
+    font-style: oblique;
+}

@@ -1,0 +1,12 @@
+input{
+    border: none;
+    outline: none;
+
+}
+#bgimg{
+    background-image: linear-gradient(rgb(206, 0, 206),rgb(60, 179, 248),blue);
+}
+a{
+    text-decoration: none;
+    color: rgb(1, 107, 72);
+}

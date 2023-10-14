@@ -1,0 +1,18 @@
+#HI{
+    background-image: linear-gradient(yellow,orange,red);
+    height: 100vh;
+}
+#bye{
+    margin-top: 5%;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+
+#bor{
+    border-style: none;
+
+}
+
+#bore{
+    border-style: none;
+}

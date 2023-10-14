@@ -1,0 +1,26 @@
+#pech{
+    background-color:#F6F6F2;
+}
+#mara{
+    transition-duration: 0s;
+    letter-spacing: 1px;
+    padding: 10px;
+    
+}
+
+#mara:hover{
+    background-color: #026f79 ;
+    color:#F6F6F2 ;
+    border-radius: 10px; 
+    letter-spacing: 1px;
+    transition-duration: 0s;
+}
+
+#code{
+    color:#F6F6F2;
+    background-color: #026f79;
+}
+#an{
+    color:#026f79 ;
+    font-weight: bolder;
+}
